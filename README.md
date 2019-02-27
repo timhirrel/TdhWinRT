@@ -1,6 +1,6 @@
 # TdhWinRT
 
-Trying to port a desktop app developed in C++ to the Windows App Store, I ran into some frustrating problems:
+Trying to port a desktop app developed in C++ to the Windows App Store, I ran into some problems:
 1. how to get the install directory (for read only access)
 2. how to get the data directory (for read/write access)
 3. how to display the help pdf file. 
