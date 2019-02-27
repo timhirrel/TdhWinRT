@@ -10,5 +10,4 @@ frustration, developed some functions and put them into a library, TdhWinRT. The
 these functions can be used as is within an (x86) app. The source code and VS project file are provided so the functions may be examined, 
 modified or extended. 
 
-These files are hereby placed into the public domain and may be used without consideration, at the sole decretion and responsibility 
-of the user.
+These files may be used without consideration to me, at the sole decretion and responsibility of the user.
