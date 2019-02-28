@@ -10,4 +10,7 @@ frustration, developed some functions and put them into a library, TdhWinRT. The
 these functions can be used as is within an (x86) app. The source code and VS project file are provided so the functions may be examined, 
 modified or extended. 
 
+Note: these functions can be used only within an app has been "converted" to a uwp app, which can be done in VS with the store | create
+app package option. So it's best to incoprate them conditionally, based on some preprocessor defintion that can be defined or not. 
+
 These files may be used without consideration to me, at the sole decretion and responsibility of the user.
